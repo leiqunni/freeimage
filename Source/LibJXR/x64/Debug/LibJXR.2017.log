@@ -1,0 +1,28 @@
+﻿cl : コマンド ライン warning D9035: オプション 'Gm' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  JXRMeta.c
+  JXRGluePFC.c
+  JXRGlueJxr.c
+  JXRGlue.c
+  strTransform.c
+  strPredQuant.c
+  strcodec.c
+  image.c
+  adapthuff.c
+  strPredQuantEnc.c
+  strFwdTransform.c
+  strenc_x86.c
+  strenc.c
+  segenc.c
+  encode.c
+  strPredQuantDec.c
+  strInvTransform.c
+  strdec_x86.c
+  strdec.c
+  segdec.c
+  コードを生成中...
+  コンパイル中...
+  postprocess.c
+  JXRTranscode.c
+  decode.c
+  コードを生成中...
+  LibJXR.2017.vcxproj -> C:\Users\leiqunni\Desktop\FreeImage\Source\LibJXR\.\x64\Debug\LibJXR.lib
