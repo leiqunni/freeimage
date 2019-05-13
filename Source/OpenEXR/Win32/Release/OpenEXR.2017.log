@@ -1,0 +1,237 @@
+﻿  IexMathFpu.cpp
+  b44ExpLogTable.cpp
+  ImfAcesFile.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfacesfile.cpp(59): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+          with
+          [
+              T=float
+          ]
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfacesfile.cpp(426): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+          with
+          [
+              T=float
+          ]
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfacesfile.cpp(432): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+          with
+          [
+              T=float
+          ]
+  ImfAttribute.cpp
+  ImfB44Compressor.cpp
+  ImfBoxAttribute.cpp
+  ImfChannelList.cpp
+  ImfChannelListAttribute.cpp
+  ImfChromaticities.cpp
+  ImfChromaticitiesAttribute.cpp
+  ImfCompositeDeepScanLine.cpp
+  ImfCompressionAttribute.cpp
+  ImfCompressor.cpp
+  ImfConvert.cpp
+  ImfCRgbaFile.cpp
+  ImfDeepCompositing.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepcompositing.cpp(84): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  ImfDeepFrameBuffer.cpp
+  ImfDeepImageStateAttribute.cpp
+  ImfDeepScanLineInputFile.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(343): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(504): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(511): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(517): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(518): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(626): warning C4244: '引数': 'Imath_2_2::Int64' から 'size_t' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(635): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1471): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1511): warning C4244: '引数': 'Imath_2_2::Int64' から 'size_t' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1515): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1716): warning C4244: '引数': 'Imath_2_2::Int64' から 'size_t' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1720): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1833): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1849): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+  ImfDeepScanLineInputPart.cpp
+  コードを生成中...
+  コンパイル中...
+  ImfDeepScanLineOutputFile.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(378): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(384): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(696): warning C4244: '引数': 'Imath_2_2::Int64' から 'long' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(734): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(758): warning C4244: '引数': 'Imath_2_2::Int64' から 'size_t' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(768): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(786): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(974): warning C4244: '引数': 'Imath_2_2::Int64' から 'long' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(978): warning C4244: '引数': 'Imath_2_2::Int64' から 'size_t' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(1479): warning C4244: '引数': 'Imath_2_2::Int64' から 'const unsigned int' への変換です。データが失われる可能性があります。
+  ImfDeepScanLineOutputPart.cpp
+  ImfDeepTiledInputFile.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(418): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(438): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(444): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(445): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(493): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(499): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(631): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1021): warning C4244: '引数': 'Imath_2_2::Int64' から 'long' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1024): warning C4244: '引数': 'Imath_2_2::Int64' から 'size_t' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1495): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1844): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1855): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+  ImfDeepTiledInputPart.cpp
+  ImfDeepTiledOutputFile.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(194): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(195): warning C4244: '引数': 'Imath_2_2::Int64' から 'size_t' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(554): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(560): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(690): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(689): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(743): warning C4244: '引数': 'Imath_2_2::Int64' から 'size_t' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(874): warning C4244: '引数': 'Imath_2_2::Int64' から 'long' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(910): warning C4244: '引数': '_Ty' から 'size_t' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=Imath_2_2::Int64
+          ]
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(970): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1000): warning C4244: '引数': 'Imath_2_2::Int64' から 'size_t' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1010): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1243): warning C4244: '引数': 'Imath_2_2::Int64' から 'long' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1246): warning C4244: '引数': 'Imath_2_2::Int64' から 'size_t' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1250): warning C4244: '引数': 'Imath_2_2::Int64' から 'size_t' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1749): warning C4244: '引数': 'Imath_2_2::Int64' から 'const unsigned int' への変換です。データが失われる可能性があります。
+  ImfDeepTiledOutputPart.cpp
+  ImfDoubleAttribute.cpp
+  ImfDwaCompressor.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(274): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(756): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(785): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(941): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(1139): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(1914): warning C4267: '+=': 'size_t' から 'unsigned short' に変換しました。データが失われているかもしれません。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(2428): warning C4267: '-=': 'size_t' から 'unsigned short' に変換しました。データが失われているかもしれません。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(2440): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(2991): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3028): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3040): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3048): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3109): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+  ImfEnvmap.cpp
+  ImfEnvmapAttribute.cpp
+  ImfFastHuf.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imffasthuf.cpp(153): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imffasthuf.cpp(167): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imffasthuf.cpp(183): warning C4244: '=': 'Imath_2_2::Int64' から 'unsigned char' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imffasthuf.cpp(186): warning C4244: '=': 'Imath_2_2::Int64' から 'unsigned char' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imffasthuf.cpp(256): warning C4244: '初期化中': 'unsigned __int64' から 'int' への変換です。データが失われる可能性があります。
+  ImfFloatAttribute.cpp
+  ImfFloatVectorAttribute.cpp
+  ImfFrameBuffer.cpp
+  ImfFramesPerSecond.cpp
+  ImfGenericInputFile.cpp
+  ImfGenericOutputFile.cpp
+  ImfHeader.cpp
+  ImfHuf.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(171): warning C4244: '=': 'Imath_2_2::Int64' から 'char' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(250): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(481): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(550): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(562): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(621): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(679): warning C4334: '<<': 32 ビット シフトの結果が暗黙的に 64 ビットに変換されました (64 ビット シフトに意図的に変換しようとしましたか?)
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(724): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(900): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'unsigned char' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(915): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(930): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'unsigned char' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfhuf.cpp(957): warning C4244: '初期化中': 'Imath_2_2::Int64' から 'unsigned char' への変換です。データが失われる可能性があります。
+  ImfInputFile.cpp
+  コードを生成中...
+  コンパイル中...
+  ImfInputPart.cpp
+  ImfInputPartData.cpp
+  ImfIntAttribute.cpp
+  ImfIO.cpp
+  ImfKeyCode.cpp
+  ImfKeyCodeAttribute.cpp
+  ImfLineOrderAttribute.cpp
+  ImfLut.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imflut.cpp(156): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imflut.cpp(156): warning C4244: '初期化中': 'double' から 'const float' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imflut.cpp(174): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  ImfMatrixAttribute.cpp
+  ImfMisc.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfmisc.cpp(313): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfmisc.cpp(708): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  ImfMultiPartInputFile.cpp
+  ImfMultiPartOutputFile.cpp
+  ImfMultiView.cpp
+  ImfOpaqueAttribute.cpp
+  ImfOutputFile.cpp
+  ImfOutputPart.cpp
+  ImfOutputPartData.cpp
+  ImfPartType.cpp
+  ImfPizCompressor.cpp
+  ImfPreviewImage.cpp
+  コードを生成中...
+  コンパイル中...
+  ImfPreviewImageAttribute.cpp
+  ImfPxr24Compressor.cpp
+  ImfRational.cpp
+  ImfRationalAttribute.cpp
+  ImfRgbaFile.cpp
+  ImfRgbaYca.cpp
+  ImfRle.cpp
+  ImfRleCompressor.cpp
+  ImfScanLineInputFile.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imfscanlineinputfile.cpp(1467): warning C4244: '引数': 'const double' から 'float' への変換です。データが失われる可能性があります。
+  ImfStandardAttributes.cpp
+  ImfStdIO.cpp
+  ImfStringAttribute.cpp
+  ImfStringVectorAttribute.cpp
+  ImfSystemSpecific.cpp
+  ImfTestFile.cpp
+  ImfThreading.cpp
+  ImfTileDescriptionAttribute.cpp
+  ImfTiledInputFile.cpp
+  ImfTiledInputPart.cpp
+  ImfTiledMisc.cpp
+  コードを生成中...
+  コンパイル中...
+  ImfTiledOutputFile.cpp
+  ImfTiledOutputPart.cpp
+  ImfTiledRgbaFile.cpp
+  ImfTileOffsets.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmimf\imftileoffsets.cpp(154): warning C4244: '引数': 'Imath_2_2::Int64' から 'int' への変換です。データが失われる可能性があります。
+  ImfTimeCode.cpp
+  ImfTimeCodeAttribute.cpp
+  ImfVecAttribute.cpp
+  ImfVersion.cpp
+  ImfWav.cpp
+  ImfZip.cpp
+  ImfZipCompressor.cpp
+  ImathBox.cpp
+  ImathColorAlgo.cpp
+  ImathFun.cpp
+  ImathMatrixAlgo.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\imath\imathmatrixalgo.cpp(118): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  c:\users\leiqunni\documents\github\freeimage\source\openexr\imath\imathmatrixalgo.cpp(254): note: コンパイル対象の関数 テンプレート インスタンス化 'Imath_2_2::M44d Imath_2_2::procrustesRotationAndTranslation<double>(const Imath_2_2::V3d *,const Imath_2_2::V3d *,const double *,const size_t,const bool)' のリファレンスを確認してください
+c:\users\leiqunni\documents\github\freeimage\source\openexr\imath\imathmatrixalgo.cpp(127): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\imath\imathmatrixalgo.cpp(155): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\imath\imathmatrixalgo.cpp(160): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\imath\imathmatrixalgo.cpp(200): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\leiqunni\documents\github\freeimage\source\openexr\imath\imathmatrixalgo.cpp(205): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  ImathRandom.cpp
+  ImathShear.cpp
+  ImathVec.cpp
+  IexBaseExc.cpp
+  IexThrowErrnoExc.cpp
+  コードを生成中...
+  コンパイル中...
+  half.cpp
+  IlmThread.cpp
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmthread\ilmthread.cpp(67): warning C4297: 'IlmThread_2_2::Thread::~Thread': 例外をスローしないはずだがそれをする関数。
+  c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmthread\ilmthread.cpp(67): note: デストラクターまたはデアロケーターに (恐らく暗黙的に) 非例外スローが指定されています。
+  IlmThreadMutex.cpp
+  IlmThreadPool.cpp
+  IlmThreadSemaphore.cpp
+  IexMathFloatExc.cpp
+  コードを生成中...
+c:\users\leiqunni\documents\github\freeimage\source\openexr\ilmthread\ilmthread.cpp(68): warning C4722: 'IlmThread_2_2::Thread::~Thread': デストラクターに値が戻りません。メモリ リークの可能性があります
+  OpenEXR.2017.vcxproj -> C:\Users\leiqunni\Documents\GitHub\FreeImage\Source\OpenEXR\.\Win32\Release\OpenEXR.lib

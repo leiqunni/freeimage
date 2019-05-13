@@ -1,0 +1,22 @@
+﻿  bio.c
+  cio.c
+  dwt.c
+  event.c
+  image.c
+  j2k.c
+  jp2.c
+  mct.c
+  mqc.c
+  openjpeg.c
+  pi.c
+  raw.c
+  t1.c
+  t2.c
+  tcd.c
+  tgt.c
+  コードを生成中...
+  function_list.c
+  invert.c
+  opj_clock.c
+  コードを生成中...
+  LibOpenJPEG.2017.vcxproj -> C:\Users\leiqunni\Documents\GitHub\FreeImage\Source\LibOpenJPEG\.\Win32\Release\LibOpenJPEG.lib

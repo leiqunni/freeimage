@@ -1,0 +1,23 @@
+﻿  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+c:\users\leiqunni\documents\github\freeimage\source\zlib\gzread.c(319): warning C4267: '=': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+c:\users\leiqunni\documents\github\freeimage\source\zlib\gzread.c(400): warning C4267: '=': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+c:\users\leiqunni\documents\github\freeimage\source\zlib\gzread.c(472): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  gzwrite.c
+c:\users\leiqunni\documents\github\freeimage\source\zlib\gzwrite.c(212): warning C4267: '=': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+c:\users\leiqunni\documents\github\freeimage\source\zlib\gzwrite.c(232): warning C4267: '=': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+c:\users\leiqunni\documents\github\freeimage\source\zlib\gzwrite.c(371): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  コードを生成中...
+  ZLib.2017.vcxproj -> C:\Users\leiqunni\Documents\GitHub\FreeImage\Source\ZLib\.\x64\Release\ZLib.lib

@@ -1,0 +1,35 @@
+﻿  fipImage.cpp
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\src\fipimage.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h(841): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  fipMemoryIO.cpp
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\src\fipmemoryio.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h(841): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  fipMetadataFind.cpp
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\src\fipmetadatafind.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h(841): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  fipMultiPage.cpp
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\src\fipmultipage.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h(841): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  fipTag.cpp
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\src\fiptag.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h(841): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  fipWinImage.cpp
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\src\fipwinimage.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h(841): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  FreeImagePlus.cpp
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\src\freeimageplus.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\leiqunni\documents\github\freeimage\wrapper\freeimageplus\freeimageplus.h(841): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     ライブラリ .\Win32\Release\FreeImagePlus.lib とオブジェクト .\Win32\Release\FreeImagePlus.exp を作成中
+  コード生成しています。
+  コード生成が終了しました。
+  FreeImagePlus.2017.vcxproj -> C:\Users\leiqunni\Documents\GitHub\FreeImage\Wrapper\FreeImagePlus\.\Win32\Release\FreeImagePlus.dll
+          1 個のファイルをコピーしました。
+          1 個のファイルをコピーしました。
+          1 個のファイルをコピーしました。

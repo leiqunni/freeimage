@@ -1,0 +1,110 @@
+﻿  BitmapAccess.cpp
+  ColorLookup.cpp
+  ConversionRGBA16.cpp
+  ConversionRGBAF.cpp
+  FreeImage.cpp
+  FreeImageIO.cpp
+  GetType.cpp
+  LFPQuantizer.cpp
+  MemoryIO.cpp
+  PixelAccess.cpp
+  J2KHelper.cpp
+  MNGHelper.cpp
+  Plugin.cpp
+  PluginBMP.cpp
+  PluginCUT.cpp
+  PluginDDS.cpp
+  PluginEXR.cpp
+  PluginG3.cpp
+  PluginGIF.cpp
+  PluginHDR.cpp
+  コンパイル中...
+  PluginICO.cpp
+  PluginIFF.cpp
+  PluginJ2K.cpp
+  PluginJNG.cpp
+  PluginJP2.cpp
+  PluginJPEG.cpp
+  PluginJXR.cpp
+  PluginKOALA.cpp
+  PluginMNG.cpp
+  PluginPCD.cpp
+  PluginPCX.cpp
+  PluginPFM.cpp
+  PluginPICT.cpp
+  PluginPNG.cpp
+  PluginPNM.cpp
+  PluginPSD.cpp
+  PluginRAS.cpp
+  PluginRAW.cpp
+  PluginSGI.cpp
+  PluginTARGA.cpp
+  コンパイル中...
+  PluginTIFF.cpp
+  PluginWBMP.cpp
+  PluginWebP.cpp
+  PluginXBM.cpp
+  PluginXPM.cpp
+  PSDParser.cpp
+  TIFFLogLuv.cpp
+  Conversion.cpp
+  Conversion16_555.cpp
+  Conversion16_565.cpp
+  Conversion24.cpp
+  Conversion32.cpp
+  Conversion4.cpp
+  Conversion8.cpp
+  ConversionFloat.cpp
+  ConversionRGB16.cpp
+  ConversionRGBF.cpp
+  ConversionType.cpp
+  ConversionUINT16.cpp
+  Halftoning.cpp
+  コンパイル中...
+  tmoColorConvert.cpp
+  tmoDrago03.cpp
+  tmoFattal02.cpp
+  tmoReinhard05.cpp
+  ToneMapping.cpp
+  NNQuantizer.cpp
+  WuQuantizer.cpp
+  CacheFile.cpp
+  MultiPage.cpp
+  ZLibInterface.cpp
+  Exif.cpp
+  FIRational.cpp
+  FreeImageTag.cpp
+  IPTC.cpp
+  TagConversion.cpp
+  TagLib.cpp
+  XTIFF.cpp
+  Background.cpp
+  BSplineRotate.cpp
+  Channels.cpp
+  コンパイル中...
+  ClassicRotate.cpp
+  Colors.cpp
+  CopyPaste.cpp
+  Display.cpp
+  Flip.cpp
+  JPEGTransform.cpp
+  MultigridPoissonSolver.cpp
+  Rescale.cpp
+  Resize.cpp
+  FreeImageC.c
+     ライブラリ .\x64\Release\FreeImage.lib とオブジェクト .\x64\Release\FreeImage.exp を作成中
+  コード生成しています。
+c:\users\leiqunni\documents\github\freeimage\source\utilities.h(352): warning C4789: バッファー 'pxlSrc' (サイズが 12 バイト) でオーバーランが発生します。4 バイトがオフセット 12 から書き込まれます
+c:\users\leiqunni\documents\github\freeimage\source\utilities.h(352): warning C4789: バッファー 'pxlSrc' (サイズが 8 バイト) でオーバーランが発生します。4 バイトがオフセット 12 から書き込まれます
+c:\users\leiqunni\documents\github\freeimage\source\utilities.h(351): warning C4789: バッファー 'pxlSrc' (サイズが 8 バイト) でオーバーランが発生します。4 バイトがオフセット 8 から書き込まれます
+c:\users\leiqunni\documents\github\freeimage\source\utilities.h(345): warning C4789: バッファー 'pxlSrc' (サイズが 8 バイト) でオーバーランが発生します。4 バイトがオフセット 8 から書き込まれます
+c:\users\leiqunni\documents\github\freeimage\source\utilities.h(352): warning C4789: バッファー 'pxlSrc' (サイズが 12 バイト) でオーバーランが発生します。4 バイトがオフセット 12 から書き込まれます
+c:\users\leiqunni\documents\github\freeimage\source\utilities.h(352): warning C4789: バッファー 'pxlSrc' (サイズが 8 バイト) でオーバーランが発生します。4 バイトがオフセット 12 から書き込まれます
+c:\users\leiqunni\documents\github\freeimage\source\utilities.h(351): warning C4789: バッファー 'pxlSrc' (サイズが 8 バイト) でオーバーランが発生します。4 バイトがオフセット 8 から書き込まれます
+c:\users\leiqunni\documents\github\freeimage\source\utilities.h(345): warning C4789: バッファー 'pxlSrc' (サイズが 8 バイト) でオーバーランが発生します。4 バイトがオフセット 8 から書き込まれます
+  コード生成が終了しました。
+  FreeImage.2017.vcxproj -> C:\Users\leiqunni\Documents\GitHub\FreeImage\.\x64\Release\FreeImage.dll
+  サブディレクトリまたはファイル Dist\x64 は既に存在します。
+          1 個のファイルをコピーしました。
+          1 個のファイルをコピーしました。
+          1 個のファイルをコピーしました。
